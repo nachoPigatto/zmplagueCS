@@ -1,0 +1,4 @@
+2
+zoom			640 oa/spr/zombies_win	0	0	400	200
+zoom_autoaim		640 oa/spr/zombies_win2	0	0	400	200
+
